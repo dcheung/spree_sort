@@ -1,5 +1,2 @@
-require "spree_sort/version"
-
-module SpreeSort
-  # Your code goes here...
-end
+require 'spree_core'
+require 'spree_sort/engine'
