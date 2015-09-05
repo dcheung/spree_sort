@@ -1,5 +1,7 @@
 <!-- insert_bottom "[data-hook=admin_product_form_additional_fields]" -->
-<%= f.field_container :sort_order do %>
-  <%= f.label :sort_order, Spree.t(:sort_order) %>
-  <%= f.number_field :sort_order %>
-<% end %>
+<div style="padding-top: 10px; padding-bottom: 20px;">
+	<%= f.field_container :sort_order do %>
+	  <%= f.label :sort_order, Spree.t(:sort_order) %>
+	  <%= f.number_field :sort_order %>
+	<% end %>
+</div>
