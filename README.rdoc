@@ -1,5 +1,5 @@
-SpreeSort
-===============
+Spree Sort
+==========
 
 Add sort order to product
 
