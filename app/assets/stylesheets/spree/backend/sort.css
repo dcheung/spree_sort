@@ -2,3 +2,8 @@
   width: 30px;
   margin-left: 10px;
 }
+
+#product_sort_order_field {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
